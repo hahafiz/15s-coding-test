@@ -1,11 +1,8 @@
-import { useState } from "react";
 import "./App.css";
 import { CodeSnippet } from "./components/code-snippet";
 import { Answer } from "./components/answer";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <div className="flex flex-col gap-8 mb-8 max-w-lg text-center">
