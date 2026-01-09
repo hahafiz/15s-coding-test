@@ -1,5 +1,5 @@
 {
   "name": "15s-coding-test",
   "compatibility_date": "2026-01-09",
-  "main": "src/main.tsx"
+  "main": "/index.html"
 }
